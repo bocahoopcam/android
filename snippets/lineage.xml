@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <project path="android/system/priv-app/CameraFi" name="bocahoopcam/android_system_priv-app_CameraFi" />
+  <project path="android/system/priv-app/CameraFi" name="bocahoopcam/android_system_priv-app_CameraFi" revision="master"/>
   <!-- LineageOS additions -->
   <project path="android" name="bocahoopcam/android" />
   <project path="device/lineage/atv" name="LineageOS/android_device_lineage_atv" />
