@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
+  <project name="TheMuppets/proprietary_vendor_oneplus" path="vendor/oneplus" depth="1" />
+
+
   <project path="android/system/priv-app/CameraFi" name="bocahoopcam/android_system_priv-app_CameraFi" remote="boca"/>
   <project path="android/system/priv-app/CamON" name="bocahoopcam/android_system_priv-app_CamON" remote="boca"/>
   <project path="android/system/priv-app/Host" name="bocahoopcam/android_system_priv-app_TeamHost" remote="boca"/>
