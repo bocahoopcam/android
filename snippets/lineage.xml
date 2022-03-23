@@ -4,11 +4,11 @@
   <project name="TheMuppets/proprietary_vendor_oneplus" path="vendor/oneplus" depth="1" />
 
 
-  <project path="android/system/priv-app/CameraFi" name="bocahoopcam/android_system_priv-app_CameraFi" remote="boca"/>
-  <project path="android/system/priv-app/CamON" name="bocahoopcam/android_system_priv-app_CamON" remote="boca"/>
-  <project path="android/system/priv-app/Host" name="bocahoopcam/android_system_priv-app_TeamHost" remote="boca"/>
-  <project path="android/system/priv-app/TeamViewer" name="bocahoopcam/android_system_priv-app_TeamViewer" remote="boca"/>
-  <project path="android/system/priv-app/ButtonSavior" name="bocahoopcam/android_system_priv-app_ButtonSavior" remote="boca"/>
+  <project path="system/priv-app/CameraFi" name="bocahoopcam/android_system_priv-app_CameraFi" remote="boca"/>
+  <project path="system/priv-app/CamON" name="bocahoopcam/android_system_priv-app_CamON" remote="boca"/>
+  <project path="system/priv-app/Host" name="bocahoopcam/android_system_priv-app_TeamHost" remote="boca"/>
+  <project path="system/priv-app/TeamViewer" name="bocahoopcam/android_system_priv-app_TeamViewer" remote="boca"/>
+  <project path="system/priv-app/ButtonSavior" name="bocahoopcam/android_system_priv-app_ButtonSavior" remote="boca"/>
   <!-- LineageOS additions -->
   <project path="android" name="bocahoopcam/android" />
   <project path="device/lineage/atv" name="LineageOS/android_device_lineage_atv" />
