@@ -23,6 +23,7 @@
            sync-j="4" />
 
   <!-- BocaHoop -->
+  <project path="device/oneplus/sm8150-common" name="bocahoopcam/android_device_oneplus_sm8150-common" groups="pdk" />
   <project path="bionic" name="bocahoopcam/android_bionic" groups="pdk" />
   <project path="system/core" name="bocahoopcam/android_system_core" groups="pdk" />
   <project path="build/make" name="bocahoopcam/android_build" groups="pdk" >
